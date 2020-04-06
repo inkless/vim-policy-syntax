@@ -1,6 +1,6 @@
 if exists('b:current_syntax') | finish |  endif
 
-syntax keyword policyAction     Approve Deny Moreinformation
+syntax keyword policyAction     Approve Deny MoreInformation
 syntax keyword policyYield      yield
 syntax keyword policyDef        Check Exports Name
 syntax keyword policySignal     signals
